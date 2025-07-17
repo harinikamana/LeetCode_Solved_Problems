@@ -21,6 +21,7 @@ LeetCode Solution
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0948-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
@@ -55,4 +56,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0948-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
