@@ -24,6 +24,7 @@ LeetCode Solution
 | [0027-remove-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0948-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0948-sort-an-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
@@ -64,5 +65,10 @@ LeetCode Solution
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/1672-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
