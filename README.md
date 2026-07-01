@@ -23,6 +23,7 @@ LeetCode Solution
 | ------- |
 | [0027-remove-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0912-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0948-sort-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/1672-richest-customer-wealth) |
@@ -33,30 +34,37 @@ LeetCode Solution
 ## Divide and Conquer
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0948-sort-an-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
