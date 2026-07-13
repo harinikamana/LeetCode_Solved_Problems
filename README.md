@@ -34,6 +34,7 @@ LeetCode Solution
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0647-palindromic-substrings](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0647-palindromic-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +77,7 @@ LeetCode Solution
 | [0027-remove-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0680-valid-palindrome-ii) |
 ## Matrix
 |  |
@@ -94,6 +96,7 @@ LeetCode Solution
 | [0005-longest-palindromic-substring](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
