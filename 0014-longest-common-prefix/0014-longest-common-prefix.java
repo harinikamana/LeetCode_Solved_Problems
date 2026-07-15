@@ -1,5 +1,4 @@
 class Solution {
-
     public String validPrefix(String a, String b) {
         int minLength = Math.min(a.length(), b.length());
         int i = 0;
@@ -8,7 +7,6 @@ class Solution {
         }
         return a.substring(0, i);
     }
-
     public String longestCommonPrefix(String[] strs) {
         String first = strs[0];
         for (int i = 1; i < strs.length; i++) {
