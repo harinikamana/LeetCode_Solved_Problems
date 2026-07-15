@@ -22,6 +22,7 @@ LeetCode Solution
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0704-binary-search) |
@@ -94,6 +95,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0344-reverse-string) |
@@ -103,4 +105,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0680-valid-palindrome-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
