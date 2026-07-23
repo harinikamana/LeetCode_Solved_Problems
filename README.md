@@ -7,6 +7,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -109,4 +110,12 @@ LeetCode Solution
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
