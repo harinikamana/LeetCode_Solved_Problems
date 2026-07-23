@@ -9,6 +9,7 @@ LeetCode Solution
 | [0069-sqrtx](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -118,4 +119,5 @@ LeetCode Solution
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
