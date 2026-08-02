@@ -11,6 +11,7 @@ LeetCode Solution
 | [0258-add-digits](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0877-stone-game) |
@@ -30,6 +31,7 @@ LeetCode Solution
 | [0014-longest-common-prefix](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
@@ -41,6 +43,7 @@ LeetCode Solution
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0877-stone-game) |
@@ -128,6 +131,7 @@ LeetCode Solution
 | [0231-power-of-two](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -152,5 +156,6 @@ LeetCode Solution
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
