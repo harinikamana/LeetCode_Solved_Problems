@@ -13,6 +13,7 @@ LeetCode Solution
 | [0342-power-of-four](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0877-stone-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Simulation
@@ -30,6 +31,7 @@ LeetCode Solution
 | [0027-remove-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0948-sort-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -41,6 +43,7 @@ LeetCode Solution
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,4 +149,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
