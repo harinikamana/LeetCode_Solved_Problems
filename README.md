@@ -30,6 +30,7 @@ LeetCode Solution
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0486-predict-the-winner) |
@@ -43,6 +44,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0509-fibonacci-number) |
@@ -88,6 +90,7 @@ LeetCode Solution
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0344-reverse-string) |
@@ -142,6 +145,7 @@ LeetCode Solution
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -160,4 +164,8 @@ LeetCode Solution
 | ------- |
 | [0486-predict-the-winner](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0877-stone-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
