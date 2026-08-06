@@ -151,14 +151,17 @@ LeetCode Solution
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Game Theory
 |  |
 | ------- |
@@ -168,4 +171,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0042-trapping-rain-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
