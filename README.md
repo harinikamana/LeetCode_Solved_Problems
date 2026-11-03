@@ -117,6 +117,7 @@ LeetCode Solution
 | [0344-reverse-string](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0680-valid-palindrome-ii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
 |  |
 | ------- |
@@ -175,4 +176,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
