@@ -112,6 +112,7 @@ LeetCode Solution
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0344-reverse-string) |
@@ -146,6 +147,7 @@ LeetCode Solution
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
@@ -180,4 +182,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
