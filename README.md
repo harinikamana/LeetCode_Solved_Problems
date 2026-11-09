@@ -32,6 +32,7 @@ LeetCode Solution
 | [0027-remove-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0704-binary-search) |
@@ -53,11 +54,13 @@ LeetCode Solution
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -83,6 +86,7 @@ LeetCode Solution
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0948-sort-an-array) |
 ## Two Pointers
@@ -186,4 +190,12 @@ LeetCode Solution
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
