@@ -33,6 +33,7 @@ LeetCode Solution
 | [0027-remove-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0486-predict-the-winner) |
@@ -98,6 +99,7 @@ LeetCode Solution
 | [0027-remove-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0647-palindromic-substrings) |
@@ -111,6 +113,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
