@@ -28,6 +28,7 @@ LeetCode Solution
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0042-trapping-rain-water) |
@@ -93,6 +94,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0125-valid-palindrome) |
@@ -126,6 +128,7 @@ LeetCode Solution
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0680-valid-palindrome-ii) |
 ## Trie
 |  |
