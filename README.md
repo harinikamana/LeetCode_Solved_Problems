@@ -7,6 +7,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0326-power-of-three) |
@@ -100,6 +101,7 @@ LeetCode Solution
 | [0042-trapping-rain-water](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0647-palindromic-substrings) |
@@ -200,8 +202,13 @@ LeetCode Solution
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0202-happy-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0169-majority-element) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/harinikamana/LeetCode_Solved_Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
